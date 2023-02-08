@@ -1,2 +1,4 @@
 # Codecademy-Projects
-Projects from Codecademy
+Projects from Codecademy:
+Fashion Blog
+Wine Festival Schedule
