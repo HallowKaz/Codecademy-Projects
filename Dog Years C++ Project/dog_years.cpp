@@ -1,5 +1,7 @@
 #include <iostream>
 
+// Write a C++ program called dog_years.cpp to calculate the age, in human years, of any dog older than 2.
+
 int main() {
 
 int dog_age = 3; // int dec
