@@ -1,4 +1,5 @@
 # Codecademy-Projects
 Projects from Codecademy:
-Fashion Blog
-Wine Festival Schedule
+Fashion Blog (HTML)
+Wine Festival Schedule (HTML/CSS)
+Dog Years (C++)
