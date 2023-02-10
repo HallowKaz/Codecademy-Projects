@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 // Write a C++ program called dog_years.cpp to calculate the age, in human years, of any dog older than 2.
 
